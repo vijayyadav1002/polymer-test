@@ -1,0 +1,24 @@
+{
+  "name": "polymer",
+  "version": "0.0.0",
+  "authors": [
+    "vijay <vijay@admarvel.com>"
+  ],
+  "description": "Trying out",
+  "keywords": [
+    "polymer",
+    "demo"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.0.0",
+    "google-map": "GoogleWebComponents/google-map#~1.0.5"
+  }
+}
